@@ -1,6 +1,6 @@
 ## Steam Mobile App
 
---
+---
 
 ### Objectives and purpose
 
@@ -15,7 +15,7 @@ Maybe in the future I'll work on some kind of plugin that will sync app data to 
 But that is not something that I'll currently be working on.
 
 
---
+---
 ## What this app wont do
 
 This app will not handle any payments or user accounts as that is not provided by the API.
