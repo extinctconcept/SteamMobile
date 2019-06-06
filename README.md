@@ -16,7 +16,7 @@ But that is not something that I'll currently be working on.
 
 
 --
-## What this app wont do
+### What this app wont do
 
 This app will not handle any payments or user accounts as that is not provided by the API.
 It will not let you login to your profile and purchase games.
